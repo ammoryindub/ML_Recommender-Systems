@@ -15,5 +15,7 @@ User-based recommended System VsItem based recommended system
 
 - EDA
 
+- Recommending System (Similar Movies)
+
 
 ### 02-ML-Recommender Systems
