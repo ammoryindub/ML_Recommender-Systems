@@ -19,3 +19,14 @@ User-based recommended System VsItem based recommended system
 
 
 ### 02-ML-Recommender Systems
+- Methods Used
+
+- The Data
+
+- Import Libraries
+
+- Get the data
+
+- Train Test Split
+
+- Evaluation
