@@ -35,6 +35,6 @@ User-based recommended System VsItem based recommended system
 
     - Model-based Collaborative Filtering
 
-- 
+- SVD
 
  
