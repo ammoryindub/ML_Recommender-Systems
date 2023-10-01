@@ -28,5 +28,7 @@ User-based recommended System VsItem based recommended system
 - Get the data
 
 - Train Test Split
+    
+    - Memory-Based Collaborative Filtering  
 
 - Evaluation
