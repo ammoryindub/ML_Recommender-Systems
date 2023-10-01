@@ -13,7 +13,7 @@ User-based recommended System VsItem based recommended system
 
 - Get the data
 
-- PCA Visualization
+- EDA
 
 
 ### 02-ML-Recommender Systems
