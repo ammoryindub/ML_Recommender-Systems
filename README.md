@@ -32,3 +32,9 @@ User-based recommended System VsItem based recommended system
     - Memory-Based Collaborative Filtering  
 
 - Evaluation
+
+    - Model-based Collaborative Filtering
+
+- 
+
+ 
