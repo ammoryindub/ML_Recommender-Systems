@@ -2,10 +2,10 @@
 
 #### Machine Learning - Recommender Systems
 
-**'PCA.png'**
-file is associated with 01-ML-Principal-Component-Analysis
+**'Movie_Id_Titles.csv', 'u.data'**
+file is associated with 01-ML-Recommender Systems
 
-### 01-ML-Principal Component Analysis
+### 01-ML-Recommender Systems
 - Import libraries
 
 - Get the data
